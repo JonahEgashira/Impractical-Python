@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/jonahegashira/.pyenv/shims/python",
+  "python.formatting.provider": "black"
+}
